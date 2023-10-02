@@ -93,3 +93,7 @@ a.celsius span {
 .celsius {
   text-decoration: none;
 }
+
+.github-code {
+  font-size: 0.8rem;
+}
